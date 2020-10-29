@@ -1,4 +1,4 @@
-baseurl = "http://examplesite.com/"
+baseurl = "https://trendx.netlify.app/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
