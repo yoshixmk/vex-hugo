@@ -11,11 +11,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/japanese"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "ja-ja"
-languageName = "Ja"
-weight = "1"
+contentDir = ""
+copyright = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
