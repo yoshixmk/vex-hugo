@@ -40,18 +40,6 @@ sections:
   label: All Page (en)
   create: all
   match: "**/*"
-- type: heading
-  label: Translations
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
-  label: Configuration
-- type: document
-  path: exampleSite/config.toml
-  label: Configuration
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
