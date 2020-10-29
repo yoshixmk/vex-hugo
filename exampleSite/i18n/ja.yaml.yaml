@@ -1,15 +1,15 @@
 ---
 - id: add_to_cart
-  translation: Add to Cart
+  translation: カートに追加
 - id: send
-  translation: Send Now
+  translation: 送る
 - id: subscribe
-  translation: Subscribe
+  translation: 購読
 - id: read_more
-  translation: Read More
+  translation: もっと見る
 - id: subscribe
-  translation: Subscribe
+  translation: 申込み
 - id: subscribe
-  translation: Subscribe
+  translation: 申込む
 - id: subscribe
-  translation: Subscribe
+  translation: 申し込む
