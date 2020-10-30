@@ -9,6 +9,10 @@ sections:
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
+- type: document
+  path: exampleSite/data/ja/homepage.yml
+  label: ホームページ
+  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
@@ -22,7 +26,6 @@ sections:
 - type: document
   path: exampleSite/content/japanese/blog
   label: ブログ
-  match: "**/*"
 - type: heading
   label: Products
 - type: directory
@@ -35,7 +38,6 @@ sections:
 - type: document
   path: exampleSite/content/japanese/products
   label: プロダクト
-  match: "**/*"
 - type: heading
   label: Contact
 - type: document
@@ -44,13 +46,16 @@ sections:
 - type: document
   path: exampleSite/content/japanese/contact/_index.md
   label: お問い合わせ
-  match: "**/*"
 - type: heading
   label: All Pages
 - type: directory
   path: exampleSite/content/english
   label: All Page (en)
   create: all
+  match: "**/*"
+- type: document
+  path: exampleSite/content/japanese
+  label: 全てのページ
   match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
