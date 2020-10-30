@@ -6,16 +6,16 @@ theme = "vex-hugo"
 title = "TrendX"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "[yoshixmk](https://yoshixmk.github.io/profile)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = ""
-languageCode = ""
-languageName = ""
-weight = ""
+[Languages.ja]
+contentDir = "content/japanese"
+copyright = "[yoshixmk](https://yoshixmk.github.io/profile)"
+languageCode = "ja-jp"
+languageName = "Ja"
+weight = "2"
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
