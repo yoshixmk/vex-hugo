@@ -19,6 +19,10 @@ sections:
   new_doc_ext: '20191203072044'
   templates:
   - post
+- type: document
+  path: exampleSite/content/japanese/blog
+  label: ブログ
+  match: "**/*"
 - type: heading
   label: Products
 - type: directory
@@ -37,6 +41,10 @@ sections:
 - type: document
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
+- type: document
+  path: exampleSite/content/japanese/contact/_index.md
+  label: お問い合わせ
+  match: "**/*"
 - type: heading
   label: All Pages
 - type: directory
