@@ -28,6 +28,10 @@ sections:
   match: "**/*"
   templates:
   - product
+- type: document
+  path: exampleSite/content/japanese/products
+  label: プロダクト
+  match: "**/*"
 - type: heading
   label: Contact
 - type: document
