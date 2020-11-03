@@ -89,13 +89,6 @@ about_product:
         label : "Check Features"
         link : "#"
 
-
-#################################### Products ########################
-products:
-  enable : true
-  title : "Checkout Our All Products"
-
-
 ################################## Subscription ###################
 subscription:
   enable : true

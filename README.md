@@ -32,8 +32,6 @@ $ hugo server --themesDir ../..
 * Fully Responsive Ready.
 * Multilingual Support.
 * Powered by bootstrap 4 framework.
-* Product Showcase.
-* Product Details Page.
 * Snipcart Included.
 * Blog Post.
 * Contact Form.
@@ -43,7 +41,6 @@ $ hugo server --themesDir ../..
 ## What's New
 
 * Multilingual Support.
-* Product Details Page.
 * Blog Post.
 * Contact Form.
 

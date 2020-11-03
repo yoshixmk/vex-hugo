@@ -27,18 +27,6 @@ sections:
   path: exampleSite/content/japanese/blog
   label: ブログ
 - type: heading
-  label: Products
-- type: directory
-  path: exampleSite/content/english/products
-  label: Product (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - product
-- type: document
-  path: exampleSite/content/japanese/products
-  label: プロダクト
-- type: heading
   label: Contact
 - type: document
   path: exampleSite/content/english/contact/_index.md
