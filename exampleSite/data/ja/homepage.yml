@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Believe in Technology, Make the change"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  image : "images/trendex_iphone.png"
   button:
    enable : true
    label : "Browse All Products"
@@ -13,7 +13,7 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : "images/trendex_android.png"
 
   # feature at the left of the image
   left_side:
@@ -54,7 +54,7 @@ features:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
+  image : "images/trendex_iphone.png"
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
