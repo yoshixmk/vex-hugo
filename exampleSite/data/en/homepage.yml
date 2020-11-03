@@ -56,17 +56,17 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: レビュー
+  title: Review
   testimonial_item:
   - name: yoshixmk
     designation: TrendX's Engineer
     image: images/avater.jpg
-    content: 驚き
+    content: Wonderful
   - name: yoshixmk
     designation: TrendX's Engineer
     image: images/avater.jpg
-    content: 楽しい
+    content: Fun
   - name: yoshixmk
     designation: TrendX's Engineer
     image: images/avater.jpg
-    content: 便利
+    content: Useful
