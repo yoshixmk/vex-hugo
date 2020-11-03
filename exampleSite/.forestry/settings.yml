@@ -23,7 +23,7 @@ sections:
   templates:
   - post
 - type: document
-  path: exampleSite/content/japanese/blog
+  path: exampleSite/content/japanese/blog/**/*
   label: ブログ
 - type: heading
   label: Contact
@@ -41,7 +41,7 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: exampleSite/content/japanese
+  path: exampleSite/content/japanese/**/*
   label: 全てのページ
 upload_dir: exampleSite/static/images
 public_path: "/images"
