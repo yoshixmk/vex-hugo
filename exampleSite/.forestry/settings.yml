@@ -12,7 +12,6 @@ sections:
 - type: document
   path: exampleSite/data/ja/homepage.yml
   label: ホームページ
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
@@ -44,7 +43,6 @@ sections:
 - type: document
   path: exampleSite/content/japanese
   label: 全てのページ
-  match: "**/*"
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
