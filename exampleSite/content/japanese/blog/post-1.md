@@ -1,6 +1,6 @@
 ---
 title: あなたにとって価値あるニュースはなんですか？
-date: 2019-10-17T11:22:16.000+06:00
+date: 2020-11-04T14:23:16+09:00
 image: "/images/trendx.jpg"
 description: this is a meta description
 
