@@ -17,13 +17,11 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: You don't need time to gather information.
   - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    icon: tf-ion-android-color-palette
+    content: You will soon find the news you care about.
+  - title: Idea
+    icon: tf-ion-ios-lightbulb-outline
+    content: Collect ideas that come up.
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
