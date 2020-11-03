@@ -17,7 +17,7 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: 情報を集めるのに時間は必要ありません
   - title: 洗練されたデザイン
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-android-color-palette-outline
     content: すぐに気になるニュースが見つかります
   - title: 発明
     icon: tf-ion-ios-lightbulb-outline
