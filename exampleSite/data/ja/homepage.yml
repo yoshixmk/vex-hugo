@@ -62,8 +62,8 @@ about_product:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: アップデートを見逃しません
+  content: リアルタイムに届いて、アイデアに転換する
   placeholder: Your Email Address Here
 testimonial:
   enable: true
