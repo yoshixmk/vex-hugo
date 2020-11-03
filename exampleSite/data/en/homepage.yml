@@ -26,10 +26,9 @@ features:
   - title: Community
     icon: tf-ion-ios-people-outline
     content: There is community management.
-  - title: Elegant Design
+  - title: Notification
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Will receive the news soon.
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
