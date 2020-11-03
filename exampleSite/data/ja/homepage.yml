@@ -39,7 +39,7 @@ promo:
   content: ニュースを通して、あらゆるビジネスのニーズに応えるソリューションが見つかります。
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: ハンズフリーでも届きます
   items:
   - image: images/showcase/showcase-4.png
     title: Lorem ipsum dolor sit amet.
