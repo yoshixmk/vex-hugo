@@ -10,7 +10,7 @@ banner:
     link: contact
 features:
   enable: true
-  title: Our Core Features
+  title: 機能
   image: images/trendex_android.png
   left_side:
   - title: 簡単な操作
@@ -20,21 +20,19 @@ features:
     icon: tf-ion-ios-bell-outline
     content: すぐに気になるニュースが見つかります
   - title: 発明
-    icon: tf-heroicons-outline:light-bulb
+    icon: tf-ion-ios-lightbulb-outline
     content: 思いついたアイデアを集めます
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: 通知
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
+    content: すぐに届きます
+  - title: アイデア マーケット（企画）
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: プラットフォーム上で簡単に売り買いが可能
 promo:
   enable: true
   image: images/trendex_iphone.png
