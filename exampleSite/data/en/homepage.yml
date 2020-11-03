@@ -29,10 +29,9 @@ features:
   - title: Notification
     icon: tf-ion-ios-bell-outline
     content: Will receive the news soon.
-  - title: Easy Pricing
+  - title: Idea market (plan)
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Easy to buy and sell can be on the platform.
 promo:
   enable: true
   image: images/trendex_iphone.png
