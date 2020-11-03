@@ -35,11 +35,8 @@ features:
 promo:
   enable: true
   image: images/trendex_iphone.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: プロフェッショナルのためのツール
+  content: ニュースを通して、あらゆるビジネスのニーズに応えるソリューションが見つかります。
 about_product:
   enable: true
   title: Why Choose Apple Watch
