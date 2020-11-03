@@ -6,8 +6,8 @@ banner:
   image : "images/trendex_iphone.png"
   button:
    enable : true
-   label : "Browse All Products"
-   link : "products"
+   label : "Comming soon"
+   link : "contact"
 
 ############################# Feature ############################
 features:
