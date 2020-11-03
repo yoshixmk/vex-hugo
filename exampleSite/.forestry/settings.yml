@@ -25,6 +25,14 @@ sections:
 - type: document
   path: exampleSite/content/japanese/blog/**/*
   label: ブログ
+- type: directory
+  path: exampleSite/content/japanese/blog
+  label: ポスト
+  create: documents
+  match: "**/*"
+  new_doc_ext: '20191203072044'
+  templates:
+  - post
 - type: heading
   label: Contact
 - type: document
