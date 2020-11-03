@@ -1,122 +1,103 @@
-############################# banner ############################
+---
 banner:
-  enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/trendex_iphone.png"
+  enable: true
+  title: News for you
+  content: There is curation and categorized expertise. It leads to original ideas.
+  image: images/trendex_iphone.png
   button:
-   enable : true
-   label : "Comming soon"
-   link : "contact"
-
-############################# Feature ############################
+    enable: true
+    label: Comming soon
+    link: contact
 features:
-  enable : true
-  title : "Our Core Features"
-  image : "images/trendex_android.png"
-
-  # feature at the left of the image
+  enable: true
+  title: Our Core Features
+  image: images/trendex_android.png
   left_side:
-    # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-    
-    # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-    
-    # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-
-  # feature at the right of the image
+  - title: Smooth Touch
+    icon: tf-ion-ios-alarm-outline
+    content: You don't need time to gather information.
+  - title: Elegant Design
+    icon: tf-ion-ios-bell-outline
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Easy Pricing
+    icon: tf-ion-ios-cart-outline
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
   right_side:
-    # feature item loop
-  - title : "Smooth Touch"
-    icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-    # feature item loop
-  - title : "Elegant Design"
-    icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-    # feature item loop
-  - title : "Easy Pricing"
-    icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-
-############################# promo ############################
+  - title: Smooth Touch
+    icon: tf-ion-ios-alarm-outline
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Elegant Design
+    icon: tf-ion-ios-bell-outline
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
+  - title: Easy Pricing
+    icon: tf-ion-ios-cart-outline
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
+      inventore?
 promo:
-  enable : true
-  image : "images/trendex_iphone.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
-
-
-############################# About Product #######################
+  enable: true
+  image: images/trendex_iphone.png
+  title: Designed by professional , the benefit for creative gigs
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
+    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
+    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
+    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable : true
-  title : "Why Choose Apple Watch"
+  enable: true
+  title: Why Choose Apple Watch
   items:
-    # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
-        
-    # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : false
-        label : "Check Features"
-        link : "#"
-
-################################## Subscription ###################
+  - image: images/showcase/showcase-4.png
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#"
+  - image: images/showcase/showcase-3.png
+    title: Lorem ipsum dolor sit amet.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
+      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
+      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    button:
+      enable: false
+      label: Check Features
+      link: "#"
 subscription:
-  enable : true
-  bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
-
-
-############################## Testimonial ##########################
+  enable: true
+  bg_image: images/call-to-action.jpg
+  title: Get Product Updates
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  placeholder: Your Email Address Here
 testimonial:
-  enable : true
-  title : "Watch Review"
+  enable: true
+  title: Watch Review
   testimonial_item:
-    # testimonial item loop
-    - name : "yoshixmk"
-      designation : "TrendX's Engineer"
-      image : "images/avater.jpg"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "yoshixmk"
-      designation : "TrendX's Engineer"
-      image : "images/avater.jpg"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "yoshixmk"
-      designation : "TrendX's Engineer"
-      image : "images/avater.jpg"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+  - name: yoshixmk
+    designation: TrendX's Engineer
+    image: images/avater.jpg
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: yoshixmk
+    designation: TrendX's Engineer
+    image: images/avater.jpg
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
+  - name: yoshixmk
+    designation: TrendX's Engineer
+    image: images/avater.jpg
+    content: A wonderful serenity has taken possession of my entire soul, like these
+      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
+      feel the charm of existence in this spot, which was created for the bliss of
+      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
+      sense of mere tranquil existence, that I neglect my talents.
