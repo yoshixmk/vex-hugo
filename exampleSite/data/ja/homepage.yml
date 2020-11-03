@@ -13,10 +13,9 @@ features:
   title: Our Core Features
   image: images/trendex_android.png
   left_side:
-  - title: Smooth Touch
+  - title: 簡単な操作
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 情報を集めるのに時間は必要ありません
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
