@@ -16,10 +16,9 @@ features:
   - title: 簡単な操作
     icon: tf-ion-ios-alarm-outline
     content: 情報を集めるのに時間は必要ありません
-  - title: Elegant Design
+  - title: 洗練されたデザイン
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: すぐに気になるニュースが見つかります
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
