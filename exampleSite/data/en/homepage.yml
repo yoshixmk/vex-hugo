@@ -23,10 +23,9 @@ features:
     icon: tf-ion-ios-lightbulb-outline
     content: Collect ideas that come up.
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Community
+    icon: tf-ion-ios-people-outline
+    content: There is community management.
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
