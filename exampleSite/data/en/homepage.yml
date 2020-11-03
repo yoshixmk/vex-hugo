@@ -39,22 +39,11 @@ promo:
   content: Through the news, you'll find solutions that meet the needs of any business.
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: You can also get it hands-free
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
-    button:
-      enable: false
-      label: Check Features
-      link: "#"
-  - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Don't miss updates
+    content: Reach in real time and turn into ideas.
     button:
       enable: false
       label: Check Features
